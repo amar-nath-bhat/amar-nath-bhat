@@ -9,7 +9,7 @@ I started my coding journey in 2023, embracing every challenge as an opportunity
 * 🌍  I'm based in Udupi, India
 * 🖥️  See my portfolio at [MyPortfolio](https://mr0.vercel.app/)
 * ✉️  You can contact me at [bhatamar8@gmail.com](mailto:bhatamar8@gmail.com)
-* 🚀  I'm currently working on [Project.](http://github.com/amar-nath-bhat/blog-website)
+* 🚀  I'm currently working on [Project.](http://github.com/amar-nath-bhat/melody-craft)
 * 🧠  I'm learning Rust.
 * 🤝  I'm open to collaborating on React Projects.
 
